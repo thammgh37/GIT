@@ -1,2 +1,4 @@
 ten : Trinh Hoang Anh
 tuoi : 19
+truong : BK
+khoa : CSE
